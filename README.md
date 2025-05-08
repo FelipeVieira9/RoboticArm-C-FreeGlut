@@ -1,10 +1,13 @@
 # RoboticArm-C-FreeGlut
 Projeto feito como atividade para a disciplina de computação gráfica. O projeto é um braço robôtico feito de segmentos que possuem funções específicas.
 
+# Rodar o projeto:
+É um projeto feito em C e a biblioteca FreeGLUT, sendo necessário a instalação da biblioteca. 
+
 # Ações:
 braco:
 'a' ir para a esquerda
-'d' ir para a direita
+'d' ir para a direita 
 'e' rotacionar para direita
 'q' rotacionar para a esquerda
 
